@@ -4,8 +4,8 @@ const app = express();
 
 app.get('/', (request, response) => {
   return response.json({
-    evento: 'Semana Omnistack 11.0',
-    aluno: 'Sandro Torres'
+    evento: 'Bem Vindo a Semana Omnistack 11.0',
+    aluno: 'Parabéns Sandro Torres'
   })
 });
 
