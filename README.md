@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/login-page.png" width="380px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/logo_projeto.png" width="380px" />
 </h1>
 
 <h4 align="center"> 
-	:construction: Semana OmniStack 11.0 In progress... :construction:
+	Seja o Heroi :construction: em construção...
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/badge/made by-Sandro Torres-red">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/SemanaOmnistack11">
 	
@@ -22,7 +22,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/DanielObara/SemanaOmnistack11">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
 <p align="center">
   <a href="https://insomnia.rest/run/?label=SemanaOmnistack11&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FSemanaOmnistack11%2Fmaster%2FInsomnia_2020-03-24.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
