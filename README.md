@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	:construction: 🚀 Semana OmniStack 11.0 In progress.. :construction:
+	:construction: Semana OmniStack 11.0 In progress... :construction:
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361">
@@ -52,7 +52,7 @@ This project was developed with the following technologies:
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src=".github/login-page.png" width="450px" />
+    <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/login-page.png" width="450px" />
 </h1>
 
 ## 🔖 Layout
@@ -74,4 +74,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
+Made with ♥ by Sandro Torres :wave: [Get in touch!](https://www.sandrotorres.com.br)
