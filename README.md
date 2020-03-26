@@ -8,46 +8,32 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/made by-Sandro Torres-red">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/SemanaOmnistack11">
-	
-  <a href="https://www.sandrotorres.com.br">
-    <img alt="Made by Sandro Torres" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
-  </a>
-
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/SemanaOmnistack11">
-  </a>
-
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/DanielObara/SemanaOmnistack11">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
 <p align="center">
-  <a href="https://insomnia.rest/run/?label=SemanaOmnistack11&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FSemanaOmnistack11%2Fmaster%2FInsomnia_2020-03-24.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 <p align="center">
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Projeto">O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Como contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">Licença</a>
 </p>
 
 <br>
 
 
-## :rocket: Technologies
+## Tecnologias
 
 This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/) in coming :construction:
-- [Expo](https://expo.io/) in coming :construction:
+- [Express](http://expressjs.com/) 
+- [ReactJS](https://reactjs.org) em progresso... :construction:
+- [React Native](https://facebook.github.io/react-native/) em progresso... :construction:
+- [Expo](https://expo.io/) em progresso... :construction:
 
-## 💻 Project
+## Projeto
 
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
@@ -55,11 +41,7 @@ Be The Hero is a project that aims to connect people who are willing to help ONG
     <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/login-page.png" width="450px" />
 </h1>
 
-## 🔖 Layout
-
-:construction: In progress.. :construction:
-
-## 🤔 How to contribute
+## Como contribuir
 
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
@@ -68,7 +50,7 @@ Be The Hero is a project that aims to connect people who are willing to help ONG
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :memo: License
+## Licença
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
