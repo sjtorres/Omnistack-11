@@ -10,8 +10,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/SemanaOmnistack11">
 	
-  <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+  <a href="https://www.sandrotorres.com.br">
+    <img alt="Made by Sandro Torres" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
   </a>
 
   <a href="https://github.com/DanielObara/SemanaOmnistack11/commits/master">
