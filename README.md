@@ -35,9 +35,9 @@ O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
 
 ## Projeto
 
-<h1 align="center">
 Be the Hero é um projeto que visa ajudar, de maneira financeira (Ongs) Instituições de caridade, ajudando a mesma se manter.
 
+<h1 align="center">
     <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/login-page.png" width="450px" />
 </h1>
 
