@@ -25,7 +25,7 @@
 
 ## Tecnologias
 
-This project was developed with the following technologies:
+O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
 
 - [Node.js](https://nodejs.org/en/) 
 - [Express](http://expressjs.com/) 
@@ -35,25 +35,23 @@ This project was developed with the following technologies:
 
 ## Projeto
 
-Be The Hero is a project that aims to connect people who are willing to help ONGs.
-
 <h1 align="center">
+Be the Hero é um projeto que visa ajudar, de maneira financeira (Ongs) Instituições de caridade, ajudando a mesma se manter.
+
     <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/login-page.png" width="450px" />
 </h1>
 
 ## Como contribuir
 
-- Make a fork;
-- Create a branck with your feature: `git checkout -b my-feature`;
-- Commit changes: `git commit -m 'feat: My new feature'`;
-- Make a push to your branch: `git push origin my-feature`.
-
-After merging your receipt request to done, you can delete a branch from yours.
+- Fork esse repositório;
+- Crie uma branch com a sua feature: git checkout -b my-feature
+- Commit suas mudanças: git commit -m 'feat: My new feature'
+- Push a sua branch: git push origin my-feature
 
 ## Licença
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+Este projeto está sob a licença MIT. Consulte o [LICENSE] (LICENSE.md) para obter detalhes.
 
 ---
 
-Made with ♥ by Sandro Torres :wave: [Get in touch!](https://www.sandrotorres.com.br)
+Feito com ♥ por Sandro Torres :wave: [Entre em Contato!](https://www.sandrotorres.com.br)
