@@ -22,7 +22,6 @@
 
 <br>
 
-
 ## Tecnologias
 
 O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
@@ -50,8 +49,8 @@ Be the Hero é um projeto que visa ajudar, de maneira financeira (Ongs) Institui
 
 ## Licença
 
-Este projeto está sob a licença MIT. Consulte o [LICENSE] (LICENSE.md) para obter detalhes.
+Este projeto está sob a licença MIT. Consulte o [LICENSE] para obter detalhes.
 
 ---
 
-Feito com ♥ por Sandro Torres :wave: [Entre em Contato!](https://www.sandrotorres.com.br)
+Feito com ♥ por Sandro Torres na semana OmniStack-11 :wave: [Entre em Contato!](https://www.sandrotorres.com.br)
