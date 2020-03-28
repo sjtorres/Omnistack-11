@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/logo_projeto.png" width="380px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/src/assets/logo.svg" width="380px" />
 </h1>
 
 <h4 align="center"> 
@@ -37,7 +37,8 @@ O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
 Be the Hero é um projeto que visa ajudar, de maneira financeira (Ongs) Instituições de caridade, ajudando a mesma se manter.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/login-page.png" width="450px" />
+    <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/login-page.png" width="350px" />
+    <img alt="Cadastro-Page" title="Cadastro-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/Cadastro-page.png" width="350px" padding="15px"/>
 </h1>
 
 ## Como contribuir
