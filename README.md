@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	Seja o Heroi :construction: em construção...
+	Seja o Heroi :heavy_check_mark: Finalizado :heavy_check_mark:
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/made by-Sandro Torres-red">
@@ -26,11 +26,11 @@
 
 O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
 
-- [Node.js](https://nodejs.org/en/) 
-- [Express](http://expressjs.com/) 
-- [ReactJS](https://reactjs.org) em progresso... :construction:
-- [React Native](https://facebook.github.io/react-native/) em progresso... :construction:
-- [Expo](https://expo.io/) em progresso... :construction:
+- [Node.js](https://nodejs.org/en/) :heavy_check_mark:
+- [Express](http://expressjs.com/) :heavy_check_mark:
+- [ReactJS](https://reactjs.org) :heavy_check_mark:
+- [React Native](https://facebook.github.io/react-native/) :heavy_check_mark:
+- [Expo](https://expo.io/) :heavy_check_mark:
 
 ## Projeto
 
