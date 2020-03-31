@@ -10,15 +10,12 @@
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
-<p align="center">Api en Json do Projeto 
-  <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Projeto">O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Como usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Instalando a API">Instalando a API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Como">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Instalando">Instalando a API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
@@ -47,7 +44,7 @@ Be the Hero é um projeto que visa ajudar, de maneira financeira (Ongs) Institui
 
 Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] ininstalado no seu computador.
 
-### Instalando a API
+## Instalando a API
 
 Na sua linha de comando:
 ```bash
@@ -70,7 +67,7 @@ $ yarn seed
 $ yarn dev
 ```
 
-## Como contribuir
+## Contribuir
 
 - Fork esse repositório;
 - Crie uma branch com a sua feature: git checkout -b my-feature
