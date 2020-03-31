@@ -16,6 +16,8 @@
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Projeto">O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Como usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Instalando a API">Instalando a API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
@@ -26,11 +28,11 @@
 
 O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
 
-:heavy_check_mark: [Node.js](https://nodejs.org/en/) 
-:heavy_check_mark: [Express](http://expressjs.com/) 
-:heavy_check_mark: [ReactJS](https://reactjs.org) 
-:heavy_check_mark: [React Native](https://facebook.github.io/react-native/) 
-:heavy_check_mark: [Expo](https://expo.io/) 
+- :heavy_check_mark: [Node.js](https://nodejs.org/en/) 
+- :heavy_check_mark: [Express](http://expressjs.com/) 
+- :heavy_check_mark: [ReactJS](https://reactjs.org) 
+- :heavy_check_mark: [React Native](https://facebook.github.io/react-native/) 
+- :heavy_check_mark: [Expo](https://expo.io/) 
 
 ## Projeto
 
@@ -40,6 +42,33 @@ Be the Hero é um projeto que visa ajudar, de maneira financeira (Ongs) Institui
     <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/login-page.png" width="350px" />
     <img alt="Cadastro-Page" title="Cadastro-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/public/Cadastro-page.png" width="350px" padding="15px"/>
 </h1>
+
+## Como usar
+
+Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] ininstalado no seu computador.
+
+### Instalando a API
+
+Na sua linha de comando:
+```bash
+# Clone este repositório
+$ git clone https://github.com/sjtorres/Omnistack-11
+
+# Vá para o repositório 
+$ cd Omnistack-11/backend
+
+# Instalar dependências
+$ yarn install
+
+# Executar Migrates
+$ yarn knex migrate:latest 
+
+# Executar Seeds
+$ yarn seed
+
+# Executar a API
+$ yarn dev
+```
 
 ## Como contribuir
 
