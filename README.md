@@ -21,7 +21,7 @@
 
 <br>
 
-## Tecnologias
+## 🚀 Tecnologias
 
 O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
 
@@ -31,7 +31,7 @@ O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
 - :heavy_check_mark: [React Native](https://facebook.github.io/react-native/) 
 - :heavy_check_mark: [Expo](https://expo.io/) 
 
-## Projeto
+## 💻 Projeto
 
 Be the Hero é um projeto que visa ajudar, de maneira financeira (Ongs) Instituições de caridade, ajudando a mesma se manter.
 
@@ -66,14 +66,14 @@ $ yarn seed
 $ yarn dev
 ```
 
-## Contribuir
+## 🤔 Contribuir
 
 - Fork esse repositório;
 - Crie uma branch com a sua feature: git checkout -b my-feature
 - Commit suas mudanças: git commit -m 'feat: My new feature'
 - Push a sua branch: git push origin my-feature
 
-## Licença
+## :memo: Licença
 
 Este projeto está sob a licença MIT. Consulte o [LICENSE] para obter detalhes.
 
