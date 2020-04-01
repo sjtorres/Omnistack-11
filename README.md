@@ -39,11 +39,11 @@ Be the Hero é um projeto que visa ajudar, de maneira financeira (Ongs) Institui
     <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/img/Mockup-Dispositivos-02.png" width="500px" />
 </h1>
 
-## Como usar
+## 🔖 Como usar
 
 Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] ininstalado no seu computador.
 
-## Instalando a API
+## 💻 Instalando a API
 
 Na sua linha de comando:
 ```bash
